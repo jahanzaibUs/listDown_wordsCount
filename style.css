@@ -1,0 +1,10 @@
+button
+{
+    margin: 50px;
+}
+html, body, .container {
+    height: 100%;
+  }
+  textarea {
+        resize: none;    
+  }
